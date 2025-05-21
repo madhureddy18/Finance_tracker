@@ -28,7 +28,7 @@ Enter your category : freelance
 Transaction Added
 Total savings : 100.0 
 
-🧠 Concepts Covered
+ #🧠 Concepts Covered
 
 
 OOP in Python (Classes, Methods)
@@ -39,7 +39,7 @@ CLI design using loops and conditionals
 
 Data validation & error handling
 
-✅ To-Do (Improvements)
+#✅ To-Do (Improvements)
  Add date field to transactions
 
  Monthly breakdown of income/expenses
