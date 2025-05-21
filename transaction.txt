@@ -1,0 +1,2 @@
+100.0,income,builder
+50.0,expense,books
